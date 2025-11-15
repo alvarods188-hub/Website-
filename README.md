@@ -1,5 +1,4 @@
 # Website-
-<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -67,7 +66,7 @@
 
         /* Header */
         header {
-            position: fixed;
+            position: relative;
             width: 100%;
             top: 0;
             z-index: 1000;
